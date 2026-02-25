@@ -1,0 +1,20 @@
+<VAST version="4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="preroll_A">
+    <InLine>
+      <AdSystem>TestAdServer</AdSystem>
+      <AdTitle>test_preroll</AdTitle>
+      <Creatives>
+        <Creative id="p1">
+          <Linear>
+            <Duration>00:00:10</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                <![CDATA[https://gcdn.2mdn.net/videoplayback/id/4fcee9fb24e36be5/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3916203830/sparams/id,itag,source,xpc,ctier,acao,ip,ipbits,expire/signature/B442B2DA91BFB34C0CF2509252BCD55FC5D19BE1.41F18B136962C3F4B9EDCCC3E98AF1E42D6B943B/key/ck2/file/file.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
