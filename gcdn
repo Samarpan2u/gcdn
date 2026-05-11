@@ -1,17 +1,17 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
-<Ad id="26fecae2-500b-4bb7-84ef-f9b02336bd2f">
+<Ad id="26fecae2-500b">
 <InLine>
 <AdSystem>
 <![CDATA[ Campaign Manager ]]>
 </AdSystem>
 <AdTitle>
-<![CDATA[ COCACOLA 15 secs ]]>
+<![CDATA[ maybelline 15 secs ]]>
 </AdTitle>
 <Impression>
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=26fecae2-500b-4bb7-84ef-f9b02336bd2f&campaign_id=f1d7df33-35df-47cd-bf68-22b52b4da565&placement_id=2ba29303-7931-4f6b-a3cc-458c2b009461&event=impression ]]>
 </Impression>
 <Creatives>
-<Creative id="26fecae2-500b-4bb7-84ef-f9b02336bd2f">
+<Creative id="26fecae2-500b">
 <Linear>
 <Duration>00:00:15</Duration>
 <TrackingEvents>
@@ -72,7 +72,7 @@
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[ https://ast.g-mana.online/bmedia-server/68174049b5cbc83ace6a8f93/creatives/26fecae2-500b-4bb7-84ef-f9b02336bd2f.mp4 ]]>
+<![CDATA[ https://mkcf.dxmcdn.com/2c871b0d-9ea2-4a35-a13d-26a9b717a82bscTwChigh.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
