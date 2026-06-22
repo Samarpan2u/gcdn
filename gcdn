@@ -71,7 +71,7 @@
 <![CDATA[ adrulesversion=2.1,campaignid=f1d7df33-35df-47cd-bf68-22b52b4da565,fcapmode=creative,repetitionpolicy=0,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=1,positionmode=preferred ]]>
 </AdParameters>
 <MediaFiles>
-<MediaFile delivery="progressive" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
 <![CDATA[ https://mkcf.dxmcdn.com/2c871b0d-9ea2-4a35-a13d-26a9b717a82bscTwChigh.mp4 ]]>
 </MediaFile>
 </MediaFiles>
