@@ -1,19 +1,19 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
-<Ad id="26fecae2-500b">
+<Ad id="26fecae2-500bc">
 <InLine>
 <AdSystem>
 <![CDATA[ Campaign Manager ]]>
 </AdSystem>
 <AdTitle>
-<![CDATA[ maybelline 1 min 30 secs ]]>
+<![CDATA[ Anime 30 secs ]]>
 </AdTitle>
 <Impression>
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=26fecae2-500b-4bb7-84ef-f9b02336bd2f&campaign_id=f1d7df33-35df-47cd-bf68-22b52b4da565&placement_id=2ba29303-7931-4f6b-a3cc-458c2b009461&event=impression ]]>
 </Impression>
 <Creatives>
-<Creative id="26fecae2-500b">
+<Creative id="26fecae2-500bc">
 <Linear>
-<Duration>00:01:30</Duration>
+<Duration>00:00:30</Duration>
 <TrackingEvents>
 <Tracking event="creativeView">
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=26fecae2-500b-4bb7-84ef-f9b02336bd2f&campaign_id=f1d7df33-35df-47cd-bf68-22b52b4da565&placement_id=2ba29303-7931-4f6b-a3cc-458c2b009461&event=creativeView ]]>
@@ -68,11 +68,11 @@
 </Tracking>
 </TrackingEvents>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=f1d7df33-35df-47cd-bf68-22b52b4da565,fcapmode=creative,repetitionpolicy=0,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=1,positionmode=preferred ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=f1d7df33-35df-47cd-bf68-22b52b4da565,fcapmode=creative,repetitionpolicy=0,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=1,positionmode=preferred,breaktype=non-news ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[ https://gcdn.2mdn.net/videoplayback/id/5bfb5de809a626e4/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3915209059/sparams/id,itag,source,xpc,ctier,acao,ip,ipbits,expire/signature/244AA3B3C92C70C1DDC5CB5D0E30B75E9002A5A8.7A0CAE1150B34E0BC5728373C9DFF45BFC026854/key/ck2/file/file.mp4]]>
+<![CDATA[ https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/441600f8-0945-4879-b8c9-961c11839585.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
