@@ -1,17 +1,17 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
-<Ad id="26fecae2-500bc">
+<Ad id="26fecae2-500bcm">
 <InLine>
 <AdSystem>
 <![CDATA[ Campaign Manager ]]>
 </AdSystem>
 <AdTitle>
-<![CDATA[ Anime 30 secs ]]>
+<![CDATA[ Anime 20 secs ]]>
 </AdTitle>
 <Impression>
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=26fecae2-500b-4bb7-84ef-f9b02336bd2f&campaign_id=f1d7df33-35df-47cd-bf68-22b52b4da565&placement_id=2ba29303-7931-4f6b-a3cc-458c2b009461&event=impression ]]>
 </Impression>
 <Creatives>
-<Creative id="26fecae2-500bc">
+<Creative id="26fecae2-500bcm">
 <Linear>
 <Duration>00:00:30</Duration>
 <TrackingEvents>
