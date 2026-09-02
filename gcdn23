@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="vast.xsd">
+
+    <!-- AD 1 - 25 seconds -->
+    <Ad id="ad-1" sequence="1">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 1 - 25 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-1">
+                    <Linear>
+                        <Duration>00:00:25</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1920"
+                                       height="1080"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://v.adsrvr.org/wh8z9yh/pizuzh7/092lzps0/zl0mo3xa_1_25.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <!-- AD 2 - 25 seconds -->
+    <Ad id="ad-2" sequence="2">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 2 - 25 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-2">
+                    <Linear>
+                        <Duration>00:00:25</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1920"
+                                       height="1080"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://v.adsrvr.org/wh8z9yh/pizuzh7/3mujpomm/qif007tx_1_25.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <!-- AD 3 - 32 seconds -->
+    <Ad id="ad-3" sequence="3">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 3 - 32 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-3">
+                    <Linear>
+                        <Duration>00:00:32</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1920"
+                                       height="1080"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://v.adsrvr.org/wh8z9yh/pbfch9q/8pqhak3q/ezhsz612_1_32.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <!-- AD 4 - 30 seconds -->
+    <Ad id="ad-4" sequence="4">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 4 - 30 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-4">
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1280"
+                                       height="720"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://encodes.transmit.live/ext/6a9638666143fc6b9850d9a4/6a95e9e1abf570492796ce9a/6a963a6a8a993927bbf62e63_1280_720_16404872_3000kbps.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <!-- AD 5 - 20 seconds -->
+    <Ad id="ad-5" sequence="5">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 5 - 20 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-5">
+                    <Linear>
+                        <Duration>00:00:20</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1920"
+                                       height="1080"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/7d3bf2d965eaf47d/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3928721452/sparams/id,itag,source,xpc,ctier,acao,ip,ipbits,expire/signature/798BC8DF2D2CC288C0F0741B7912976767159735.B62909C6D75949C9169A98307BB8F1AB7799C301/key/ck2/file/file.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <!-- AD 6 - 37 seconds -->
+    <Ad id="ad-6" sequence="6">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 6 - 37 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-6">
+                    <Linear>
+                        <Duration>00:00:37</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1920"
+                                       height="1080"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://v.adsrvr.org/wh8z9yh/gd222ul/wsit3ela/kozyk03q_1_37.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <!-- AD 7 - 32 seconds -->
+    <Ad id="ad-7" sequence="7">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 7 - 32 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-7">
+                    <Linear>
+                        <Duration>00:00:32</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1920"
+                                       height="1080"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://v.adsrvr.org/wh8z9yh/lzbdjdh/ie4itda3y5/9lhc0obz_1_32.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+    <!-- AD 8 - 22 seconds -->
+    <Ad id="ad-8" sequence="8">
+        <InLine>
+            <AdSystem version="3.0">Test Ad Server</AdSystem>
+            <AdTitle><![CDATA[Ad 8 - 22 Seconds]]></AdTitle>
+            <Impression/>
+
+            <Creatives>
+                <Creative id="creative-8">
+                    <Linear>
+                        <Duration>00:00:22</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive"
+                                       type="video/mp4"
+                                       width="1920"
+                                       height="1080"
+                                       scalable="true"
+                                       maintainAspectRatio="true"><![CDATA[
+https://v.adsrvr.org/61ikbrz/qxk96we/0b9nyy73ba/4bq901uh_1_22.mp4
+]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+
+</VAST>
