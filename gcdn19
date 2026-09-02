@@ -1,5 +1,5 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
-<Ad id="26fecae2-500bcmb">
+<Ad id="26fecae2-500bcmbh">
 <InLine>
 <AdSystem>
 <![CDATA[ Campaign Manager ]]>
@@ -11,9 +11,9 @@
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=26fecae2-500b-4bb7-84ef-f9b02336bd2f&campaign_id=f1d7df33-35df-47cd-bf68-22b52b4da565&placement_id=2ba29303-7931-4f6b-a3cc-458c2b009461&event=impression ]]>
 </Impression>
 <Creatives>
-<Creative id="26fecae2-500bcmb">
+<Creative id="26fecae2-500bcmbh">
 <Linear>
-<Duration>00:00:30</Duration>
+<Duration>00:00:10</Duration>
 <TrackingEvents>
 <Tracking event="creativeView">
 <![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=26fecae2-500b-4bb7-84ef-f9b02336bd2f&campaign_id=f1d7df33-35df-47cd-bf68-22b52b4da565&placement_id=2ba29303-7931-4f6b-a3cc-458c2b009461&event=creativeView ]]>
@@ -72,7 +72,7 @@
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
-<![CDATA[ https://v.adsrvr.org/z53r1q4/azis3z3/sjh@c412/t8kg7uy5_1_22.mp4 ]]>
+<![CDATA[ https://fsn1.your-objectstorage.com/gassets/media-files/7bfecac7-7293-45d8-902b-6023128ce799.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
